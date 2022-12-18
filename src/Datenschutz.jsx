@@ -1,6 +1,6 @@
 
 
-const Impressum = () => {
+const Datenschutz = () => {
     return (
         <section>
         <h1>Datenschutz&shy;erkl&auml;rung</h1>
@@ -44,4 +44,4 @@ const Impressum = () => {
     );
   };
   
-  export default Impressum;
+  export default Datenschutz;
